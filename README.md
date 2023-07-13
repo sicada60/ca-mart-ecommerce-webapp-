@@ -1,6 +1,5 @@
 # ca-mart-ecommerce-webapp-
 
-# MERN Stack Ecommerce Website
 
 This is a full-stack ecommerce website built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to browse and purchase products, manage their shopping cart, and make payments securely. The application uses Redux for state management and MongoDB for the database.
 
@@ -27,13 +26,13 @@ This is a full-stack ecommerce website built using the MERN (MongoDB, Express, R
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mern-ecommerce.git
+git clone https://github.com/your-username/ca-mart-ecommerce-webapp-.git
 ```
 
 2. Change to the project directory:
 
 ```bash
-cd mern-ecommerce
+cd ca-mart-ecommerce-webapp-
 ```
 
 3. Install the dependencies:
